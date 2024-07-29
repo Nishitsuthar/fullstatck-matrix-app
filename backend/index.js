@@ -10,7 +10,7 @@ let apiData = null;
 
 app.get('/', async (req, res) => {
     try {
-        const accessToken = '1000.00cb79ce14a868f12706abf344d75b28.ad5bd6ef1dbba6a52c8cc410d4428f8c';
+        const accessToken = '1000.89bac2ace42888300f588be0811480c8.29b5d33391558bc4e24cb0be4af851ae';
 
         const headers = {
             'Content-Type': 'application/json',  // Specify the content type of the request body
